@@ -1,0 +1,8 @@
+https://blog.csdn.net/u010185765/article/details/51906224
+简单的说明，只有 queue , stack , list
+
+https://blog.csdn.net/woniu211111/article/details/75305545?utm_source=blogxgwz0
+分类可看，有图片帮助理解
+
+https://zh.cppreference.com/w/cpp/string/basic_string/assign
+这个够棒，还比较权威吧
