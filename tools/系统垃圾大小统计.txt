@@ -1,0 +1,4 @@
+@echo off
+setlocal enabledelayedexpansion
+set n=0
+set /a n+=
